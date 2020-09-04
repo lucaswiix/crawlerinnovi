@@ -1,0 +1,21 @@
+[
+    {
+        "title": "CASA COM 1 DORMITÓRIO À VENDA, 50 M² POR R$ 55.000",
+        "localitation": "JARDIM SANTO ANDRÉ - SANTO ANDRÉ/SP",
+        "photos": [
+            "https://cdn.uso.com.br/39299/111494147.jpg",
+            "https://cdn.uso.com.br/39299/111494148.jpg",
+            "https://cdn.uso.com.br/39299/111494149.jpg",
+            "https://cdn.uso.com.br/39299/111494150.jpg",
+            "https://cdn.uso.com.br/39299/111494146.jpg"
+        ],
+        "externalCode": "CA0133",
+        "features": [
+            "1 dormitório",
+            "1 banheiro",
+            "50 m² total"
+        ],
+        "price": "R$ 55.000,00",
+        "transactionType": "Venda"
+    }
+]
