@@ -6,6 +6,9 @@
     "express": "^4.17.1",
     "fs": "^0.0.1-security"
   },
+  "scripts": {
+    "start": "node server.mjs"
+  },
   "name": "crawler",
   "version": "1.0.0",
   "main": "index.js",
